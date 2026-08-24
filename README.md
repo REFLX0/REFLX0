@@ -121,6 +121,16 @@ Hi, I'm **Mohamed Aziz Jlassi**. Computer Engineering graduate specializing in A
 
 <img src="assets/metrics.languages.svg" height="165" alt="most used languages">
 
+<br><br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=REFLX0&theme=darkhub&no-frame=true&no-bg=true&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=REFLX0&theme=flat&no-frame=true&no-bg=true&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=REFLX0&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="REFLX0 Trophies" width="90%">
+  </picture>
+</a>
+
 </div>
 
 ---
