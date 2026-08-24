@@ -123,7 +123,10 @@ Hi, I'm **Mohamed Aziz Jlassi**. Computer Engineering graduate specializing in A
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+<a href="https://github.com/drknzz/GitHub-Achievements"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="100" alt="GitHub Sponsor"></a>
+<a href="https://github.com/drknzz/GitHub-Achievements"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="100" alt="YOLO"></a>
+<a href="https://github.com/drknzz/GitHub-Achievements"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="100" alt="Star Struck"></a>
+<a href="https://github.com/drknzz/GitHub-Achievements"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="100" alt="Pull Shark"></a>
 
 </div>
 
