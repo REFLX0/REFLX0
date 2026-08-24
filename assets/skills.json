@@ -1,13 +1,12 @@
 {
   "title": "Skill Radar",
-  "_comment": "PLACEHOLDER NUMBERS - these are inferred from the languages in your public repos, not from you. Edit them. Values are 0-100 and purely self-rated; 5-8 axes reads best.",
   "axes": [
-    { "label": "JavaScript", "value": 88 },
-    { "label": "TypeScript", "value": 80 },
-    { "label": "React",      "value": 82 },
-    { "label": "Node / API", "value": 74 },
-    { "label": "Databases",  "value": 70 },
-    { "label": "Python",     "value": 65 },
-    { "label": "DSA",        "value": 72 }
+    { "label": "Python", "value": 90 },
+    { "label": "Robotics / ROS2", "value": 85 },
+    { "label": "AI / OpenCV", "value": 80 },
+    { "label": "Full-Stack (React/Node)", "value": 75 },
+    { "label": "DevOps / Docker", "value": 80 },
+    { "label": "Embedded Systems", "value": 85 },
+    { "label": "Infrastructure (Terraform)", "value": 75 }
   ]
 }

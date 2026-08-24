@@ -10,17 +10,15 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/REFLX0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Mohamed+Aziz+Jlassi;AI+%26+Robotics+Engineer;Full-Stack+Developer;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/aziz-jlassi111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:azizzizoujlassi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.mohamedazizjlassi.me"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/YOUR_CF"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=REFLX0&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -34,13 +32,12 @@
 $ cat about.txt
 ```
 
-Hi, I'm **REFLX0**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm **Mohamed Aziz Jlassi**. Computer Engineering graduate specializing in Autonomous Systems, Robotics, Embedded Systems, and Artificial Intelligence.
 
-- Currently building **[PROJECT_TWO](https://github.com/REFLX0/PROJECT_TWO)** and **[Spyder](https://github.com/REFLX0/spyder_frontend)**
+- Currently building **[autonomous-drone](https://github.com/REFLX0/autonomous-drone)** and **[vigilant-guard](https://github.com/REFLX0/vigilant-guard)**
 - Portfolio: **[www.mohamedazizjlassi.me](https://www.mohamedazizjlassi.me)**
-- Learning **[something specific]**
-- Fun fact: **[something that is actually a fun fact]**
+- Learning **advanced AI models and scalable cloud infrastructure**
+- Fun fact: **I built a physically constructed autonomous drone from scratch using ROS2 and PX4!**
 
 <br>
 
@@ -48,7 +45,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=py,cpp,ts,react,nodejs,tailwind,docker,kubernetes,linux,git,github,vscode,html,css&perline=11" alt="tech stack">
 
 </div>
 
@@ -141,40 +138,40 @@ and I solve problems for fun when neither of those is cooperating.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/REFLX0/PROJECT_ONE">
+  <a href="https://github.com/REFLX0/autonomous-drone">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-PROJECT_ONE-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_ONE-light.svg">
-      <img src="assets/card-PROJECT_ONE-dark.svg" width="420" alt="PROJECT_ONE">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-autonomous-drone-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-autonomous-drone-light.svg">
+      <img src="assets/card-autonomous-drone-dark.svg" width="420" alt="autonomous-drone">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/REFLX0/PROJECT_TWO">
+  <a href="https://github.com/REFLX0/vigilant-guard">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-PROJECT_TWO-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_TWO-light.svg">
-      <img src="assets/card-PROJECT_TWO-dark.svg" width="420" alt="PROJECT_TWO">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-vigilant-guard-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-vigilant-guard-light.svg">
+      <img src="assets/card-vigilant-guard-dark.svg" width="420" alt="vigilant-guard">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/REFLX0/PROJECT_THREE">
+  <a href="https://github.com/REFLX0/cloud-automation">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-PROJECT_THREE-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_THREE-light.svg">
-      <img src="assets/card-PROJECT_THREE-dark.svg" width="420" alt="PROJECT_THREE">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-cloud-automation-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-cloud-automation-light.svg">
+      <img src="assets/card-cloud-automation-dark.svg" width="420" alt="cloud-automation">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/REFLX0/PROJECT_FOUR">
+  <a href="https://github.com/REFLX0/REFLX0-">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-PROJECT_FOUR-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-PROJECT_FOUR-light.svg">
-      <img src="assets/card-PROJECT_FOUR-dark.svg" width="420" alt="PROJECT_FOUR">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-REFLX0--dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-REFLX0--light.svg">
+      <img src="assets/card-REFLX0--dark.svg" width="420" alt="REFLX0-">
     </picture>
   </a>
 </td>
@@ -185,10 +182,9 @@ and I solve problems for fun when neither of those is cooperating.
 
 | project | live | stack |
 |---|---|---|
-| **[PROJECT_ONE](https://github.com/REFLX0/PROJECT_ONE)** | [www.mohamedazizjlassi.me](https://www.mohamedazizjlassi.me) | `JavaScript` `GSAP` `Lenis` |
-| **[PROJECT_TWO](https://github.com/REFLX0/PROJECT_TWO)** | [PROJECT_TWO-calendar.vercel.app](https://PROJECT_TWO-calendar.vercel.app) | `JavaScript` |
-| **[PROJECT_THREE](https://github.com/REFLX0/PROJECT_THREE)** | [PROJECT_THREE-one-coral.vercel.app](https://PROJECT_THREE-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[PROJECT_FOUR](https://github.com/REFLX0/PROJECT_FOUR)** | [live-link](https://live-link) | `JavaScript` `Gemini` |
+| **[autonomous-drone](https://github.com/REFLX0/autonomous-drone)** | [GitHub](https://github.com/REFLX0/autonomous-drone) | `ROS2` `PX4` `OpenCV` |
+| **[vigilant-guard](https://github.com/REFLX0/vigilant-guard)** | [GitHub](https://github.com/REFLX0/vigilant-guard) | `Python` `React` `TensorFlow` |
+| **[cloud-automation](https://github.com/REFLX0/cloud-automation)** | [GitHub](https://github.com/REFLX0/cloud-automation) | `Terraform` `Docker` `Proxmox` |
 
 </sub>
 
