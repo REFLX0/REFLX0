@@ -32,12 +32,13 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Mohamed Aziz Jlassi**. Computer Engineering graduate specializing in Autonomous Systems, Robotics, Embedded Systems, and Artificial Intelligence.
+Hi, I'm **Mohamed Aziz Jlassi**, an AI & Robotics Engineer specializing in Artificial Intelligence, Computer Vision, Autonomous Systems, Robotics, and Embedded AI.
 
-- Currently building **[autonomous-drone](https://github.com/REFLX0/autonomous-drone)** and **[vigilant-guard](https://github.com/REFLX0/vigilant-guard)**
-- Portfolio: **[www.mohamedazizjlassi.me](https://www.mohamedazizjlassi.me)**
-- Learning **advanced AI models and scalable cloud infrastructure**
-- Fun fact: **I built a physically constructed autonomous drone from scratch using ROS2 and PX4!**
+-  **Autonomous Systems & Robotics:** Built a complete autonomous drone from both hardware and software, integrating ROS2, PX4, YOLO, OpenCV, Python, and C++ for perception, navigation, mission planning, and autonomous flight.
+-  **AI & Computer Vision:** Experienced in developing real-world AI systems using YOLO, Deep Learning, TensorFlow, PyTorch, MobileNetV2, ArcFace, DeepFace, OpenCV, and ONNX, from model development and training to real-time inference and deployment.
+- ** **Full-Stack Development:** Proficient in building robust end-to-end applications and web services to integrate and deploy AI and robotics solutions.
+
+- 🌐 Portfolio: **[www.mohamedazizjlassi.me](https://www.mohamedazizjlassi.me)**
 
 <br>
 
